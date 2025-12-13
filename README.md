@@ -17,7 +17,7 @@ Auto-verifier bot, auto-assigner tool, reputation ledger — coming soon.
 
 ## Stress Test & Criticism
 Strongest arguments to kill or evolve Hexon-θ:  
-Kill This Idea Repo github.com/BigusUk/Hexon---Killer
+Kill This Idea Repo https://github.com/BigusUk/Hexon---Killer
 
 Transparency over ego. If the criticisms hold, we end it.
 
