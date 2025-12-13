@@ -10,7 +10,7 @@ Force evidence tagging, ethical symmetry, and anti-misuse rules so reliability i
 - [Workflow Mode] — Normal English + Hexon verification (recommended)
 
 ## Rules & Anti-Misuse
-See [RULES.md](RULES.md) for full v0.2 specification.
+See Misuse Rules for full v0.2 specification.
 
 ## Vision
 Auto-verifier bot, auto-assigner tool, reputation ledger — coming soon.
