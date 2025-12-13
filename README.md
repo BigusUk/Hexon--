@@ -5,6 +5,13 @@ A precision language designed to make truth structurally visible and dishonesty 
 ## Core Goal
 Force evidence tagging, ethical symmetry, and anti-misuse rules so reliability is scannable at a glance.
 
+## Activation Prompts
+- [Pure Mode]— AI responds only in Hexon-θ
+- [Workflow Mode] — Normal English + Hexon verification (recommended)
+
+## Rules & Anti-Misuse
+See [RULES.md](RULES.md) for full v0.2 specification.
+
 ## Vision
 Auto-verifier bot, auto-assigner tool, reputation ledger — coming soon.
 
