@@ -15,6 +15,12 @@ See Misuse Rules for full v0.2 specification.
 ## Vision
 Auto-verifier bot, auto-assigner tool, reputation ledger — coming soon.
 
+## Stress Test & Criticism
+Strongest arguments to kill or evolve Hexon-θ:  
+[Kill This Idea Repo](https://github.com/BigusUk/Hexon--Kill
+
+Transparency over ego. If the criticisms hold, we end it.
+
 Open source. Collaboration, criticism, and feedback welcome.
 
 #HexonTheta
