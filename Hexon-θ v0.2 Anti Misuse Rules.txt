@@ -1,0 +1,56 @@
+# Hexon-θ v0.2 — Full Rules Specification
+
+**Date**: December 13, 2025  
+**Version**: 0.2 (includes mandatory anti-misuse clauses)
+
+Hexon-θ is a precision language designed to make the strength of evidence and ethical impact of any claim **structurally visible** and **dishonesty expensive**.
+
+## Core Evidence Tiers (mandatory on every claim)
+[1] Peer-reviewed primary source  
+[2] Official agency / telescope data  
+[3] Expert consensus only  
+[4] Preprint / reputable author  
+[5] Personal logic / observation (maximum allowed for opinions or subjective views)  
+[6∅] No evidence → automatically quarantined (cannot be used as a premise for further claims)
+
+## Operators
+↔ Bidirectional ethical accounting (evaluate impact on all affected parties)  
+↑ Net increase in lives / well-being (measured in θ-units: well-being of one conscious being for one year)  
+↓ Net decrease in lives / well-being  
+P[low–high]% Probability range for projections or predictions
+
+## Mandatory Anti-Misuse Rules (v0.2)
+
+1. **Source Link Mandatory**  
+   Any claim tagged [1] or [2] **must** include a verifiable link/DOI/archival URL.  
+   Failure to provide → automatic downgrade to [5] or [6∅].
+
+2. **Quarantine Challenge Rule**  
+   Any [6∅] tag may be publicly challenged with evidence.  
+   - Successful challenge → original tagger downgraded.  
+   - Failed challenge → challenger downgraded.  
+   Public reputation ledger encouraged.
+
+3. **Self-Tag Disclosure**  
+   Personal opinions or beliefs **must not exceed [5]**.  
+   Claiming [1]–[4] for subjective views = automatic dishonesty flag → entire statement quarantined.
+
+4. **Ethical Vector Symmetry**  
+   No claim may assert ↔ ↑ net lives without explicitly addressing any known ↓ side (and vice versa).  
+   Omission → downgrade to [5] or [6∅].
+
+5. **Version Stamp Required**  
+   Every complete Hexon-θ statement **must** end with exactly:  
+   `#HexonTheta-v0.2`  
+   Use of outdated or forked versions = automatic [6∅] quarantine.
+
+## Example Statements
+- Human activity drives recent warming [1] https://doi.org/10.1088/1748-9326/acd520 ↔ ↑ net lives long-term ∧ ↓ short-term disruption → net ↑ P[95-99]% #HexonTheta-v0.2
+- Mandatory policies increase compliance [3] ↔ ↑ lives for some ∧ ↓ trust via coercion → net debated #HexonTheta-v0.2
+- My opinion on this topic [5] ↔ neutral evidence #HexonTheta-v0.2
+
+These rules are **non-negotiable** in v0.2. Misuse triggers visible quarantine.
+
+Open source. Evolve or kill.
+
+#HexonTheta
