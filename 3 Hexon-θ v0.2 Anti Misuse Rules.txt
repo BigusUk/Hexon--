@@ -54,3 +54,4 @@ These rules are **non-negotiable** in v0.2. Misuse triggers visible quarantine.
 Open source. Evolve or kill.
 
 #HexonTheta
+
