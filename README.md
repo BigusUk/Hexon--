@@ -8,6 +8,7 @@ Force evidence tagging, ethical symmetry, and anti-misuse rules so reliability i
 ## Activation Prompts
 - [Pure Mode]— AI responds only in Hexon-θ
 - [Workflow Mode] — Normal English + Hexon verification (recommended)
+- HIGH LEVEL SUBSTANTIATED HEXON FLOW - Focus on Tier 1-3 information only, for highly substantiated idea forming.
 
 ## Rules & Anti-Misuse
 See Misuse Rules for full v0.2 specification.
