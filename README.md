@@ -1,17 +1,17 @@
 # Hexon-θ v0.2
 
-A precision language designed to make truth structurally visible and dishonesty expensive.
+A precision language designed to make truth structurally visible and unsubstantiated statements easy to see.
 
 ## Core Goal
-Force evidence tagging, ethical symmetry, and anti-misuse rules so reliability is scannable at a glance.
+Force evidence tagging, ethical symmetry, and anti-misuse rules so substantiated reliability is detectable at a glance.
 
 ## Activation Prompts
-- [Pure Mode]— AI responds only in Hexon-θ
-- [Workflow Mode] — Normal English + Hexon verification (recommended)
-- HIGH LEVEL SUBSTANTIATED HEXON FLOW - Focus on Tier 1-3 information only, for highly substantiated idea forming.
+- [Pure Mode V0.2]— AI responds only in Hexon-θ
+- [Workflow Mode V.03] — Normal English + Hexon verification + collaborative use across platforms (recommended)
+- {HIGH LEVEL SUBSTANTIATED HEXON FLOW} v0.2 - Focus on Tier 1-3 information only, for highly substantiated idea forming.
 
 ## Rules & Anti-Misuse
-See Misuse Rules for full v0.2 specification.
+See Misuse Rules for full specifications.
 
 ## Vision
 Auto-verifier bot, auto-assigner tool, reputation ledger — coming soon.
