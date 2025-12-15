@@ -1,4 +1,4 @@
-# Hexon-θ v0.2
+# Hexon-θ v0.2/3
 
 A precision language designed to make truth structurally visible and unsubstantiated statements easy to see.
 
