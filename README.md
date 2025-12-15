@@ -6,9 +6,12 @@ A precision language designed to make truth structurally visible and unsubstanti
 Force evidence tagging, ethical symmetry, and anti-misuse rules so substantiated reliability is detectable at a glance.
 
 ## Activation Prompts
-- [Pure Mode V0.2]— AI responds only in Hexon-θ
-- [Workflow Mode V.03] — Normal English + Hexon verification + collaborative use across platforms (recommended)
-- {HIGH LEVEL SUBSTANTIATED HEXON FLOW} v0.2 - Focus on Tier 1-3 information only, for highly substantiated idea forming.
+- [Prompt Pure Mode V0.2]— AI responds only in Hexon-θ
+- [Prompt Workflow Mode V.03] — Normal English + Hexon verification + collaborative use across platforms (recommended)
+- [Prompt HIGH LEVEL SUBSTANTIATED HEXON FLOW v0.2] - Focus on Tier 1-3 information only, for highly substantiated idea forming.
+
+## How To use
+Copy the chosen prompt into Grok or any AI
 
 ## Rules & Anti-Misuse
 See Misuse Rules for full specifications.
